@@ -16,8 +16,3 @@ Before you begin, ensure you have met the following requirements:
 - Google Sheets API credentials (JSON file)
 - Access to the CapSolver API
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/dmv-appointment-scraper.git
-   cd dmv-appointment-scraper
